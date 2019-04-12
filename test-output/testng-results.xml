@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+      <class name="com.flexon.testng.BasicAnnotationIntestNG">
+        <test-method status="PASS" signature="testOne()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testOne" is-config="true" duration-ms="11" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="testTwo()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testTwo" is-config="true" duration-ms="1" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method status="PASS" signature="testFive()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testFive" duration-ms="5" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFive -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testThree" is-config="true" duration-ms="0" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="testEight()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testEight" is-config="true" duration-ms="1" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEight -->
+        <test-method status="PASS" signature="testThree()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testThree" is-config="true" duration-ms="0" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThree -->
+        <test-method status="PASS" signature="testFour()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testFour" duration-ms="3" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFour -->
+        <test-method status="PASS" signature="testEight()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testEight" is-config="true" duration-ms="1" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEight -->
+        <test-method status="PASS" signature="testSeven()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testSeven" is-config="true" duration-ms="0" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSeven -->
+        <test-method status="PASS" signature="testSix()[pri:0, instance:com.flexon.testng.BasicAnnotationIntestNG@1a968a59]" name="testSix" is-config="true" duration-ms="1" started-at="2019-04-11T21:43:55Z" finished-at="2019-04-11T21:43:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSix -->
+      </class> <!-- com.flexon.testng.BasicAnnotationIntestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
